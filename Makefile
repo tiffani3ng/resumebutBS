@@ -10,7 +10,9 @@ PutHTML:
   cp skills.html /var/www/html/resumebutBS/
   cp css/* /var/www/html/resumebutBS/css/
   cp js/* /var/www/html/resumebutBS/js/
-  cp img/* /var/www/html/resumebutBS/img/
+  cp kat.jpg /var/www/html/resumebutBS/img/
+  cp 'resume pic.jpg' /var/www/html/resumebutBS/img/
+  cp wolves.JPG /var/www/html/resumebutBS/img/
 
 
 	echo "Current contents of your HTML directory: "
